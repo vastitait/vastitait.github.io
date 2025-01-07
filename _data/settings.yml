@@ -8,9 +8,9 @@ google-ID: ''
 
 menu:
 - {name: 'Projects',  url: 'projects'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
+- {name: 'Art', url: 'art'}
+- {name: 'Posts',       url: 'posts'}
+- {name: 'Shop',      url: 'shop'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
